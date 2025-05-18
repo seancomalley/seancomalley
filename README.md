@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @seancomalley
-- 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on AI Agent Development
+- 👀 I code in Python and build AI powered products
+- 🌱 I’m currently building new AI products for the banking and healthcare industry
+- 💞️ I’m looking to collaborate around business ideas that can leverage AI
 - 📫 How to reach me https://www.linkedin.com/in/seanomalley/
-- ⚡ Fun fact: fintech entrepreneur
+- ⚡ Fun fact: serial entrepreneur 
 
 <!---
 seancomalley/seancomalley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
